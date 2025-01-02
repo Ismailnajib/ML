@@ -1,2 +1,2 @@
 # ML
-This is Free cours and  Labs for learning Machine Learning
+This is Free courses and  Labs for learning Machine Learning
